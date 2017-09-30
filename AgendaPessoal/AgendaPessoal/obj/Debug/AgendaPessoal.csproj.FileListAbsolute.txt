@@ -1,0 +1,14 @@
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.exe.config
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.exe
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\bin\Debug\AgendaPessoal.pdb
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csprojResolveAssemblyReference.cache
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\MainWindow.g.cs
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\App.g.cs
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.cache
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal_MarkupCompile.lref
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\MainWindow.baml
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.g.resources
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.Properties.Resources.resources
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.csproj.GenerateResource.Cache
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.exe
+C:\Users\Erivaldo\Documents\Visual Studio 2017\Projects\AgendaPessoal\AgendaPessoal\obj\Debug\AgendaPessoal.pdb
